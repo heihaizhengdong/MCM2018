@@ -7,7 +7,7 @@ This is for MCM 2018
 |重点掌握算法|CJH|包括模拟退火算法、蚁群算法、遗传算法等现代启发式算法<br />包括k-nn、lasso、牛顿法算法等统计理论的基础算法<br />【k-nn、FS、lasso、LAR、PCA、LDA、BIC、SVM、】<br />references: <br />1.The Elements of Statistical Learning  / by Trevor Hastie<br />2.Numerical Optimization	/ by Jorge Nocedal<br />3.Foundations of Machine Learning 	/by Mehryar Mohri<br />4.Deep Learning	/by Ian Goodfellow|
 |重点掌握Lingo\SAS\数据挖掘|---|---|
 |模拟：matlab  / python3.6 |贺一纯、程家辉|references:<br />1.中科大陆伟老师的matlab 的ppt<br />2.http://www.pythondoc.com/pythontutorial3/ python3使用指南|
-|论文：latex|---|1.http://ju.outofmemory.cn/entry/236161模板参考 <br />使用C-TeX，参考文献请查看群文件|
+|论文：latex|白丹|1.http://ju.outofmemory.cn/entry/236161模板参考 <br />使用C-TeX，参考文献请查看群文件|
 
 ## 时间
 |时间安排|内容|
